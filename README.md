@@ -45,7 +45,7 @@ The shape was worked out around the camera and flash in the photos above. Check 
 | Path | What it is |
 | --- | --- |
 | `README.md` | This page. |
-| `LICENSE` | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). You can use and adapt the files, shared copies stay under the same license, and commercial use is excluded. |
+| `LICENSE` | [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.html). You can use, adapt, and share the files, including commercially. Shared copies and adaptations stay under GPL v3. |
 | `macro-diffuser-main-source.svg` | Inkscape source on an A3 page (297 × 420 mm). All three parts live here, with marks for snap buttons and tabs, plus hidden construction geometry used while drawing. |
 | `macro-diffusion-top-shell.png` | A3 render of the top shell, including the button and tab marks. Print it to cut a paper mock-up. |
 | `macro-diffusion-bottom-front.png` | A3 render of the other two parts, the bottom connector and the front diffuser, with the same kind of marks. |
@@ -157,8 +157,8 @@ Quick outdoor shots with the finished diffuser, a Canon EOS R6, and a Canon 100m
 
 ## License
 
-These files are released under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). The full text is in [`LICENSE`](LICENSE).
+These files are released under the [GNU General Public License v3](https://www.gnu.org/licenses/gpl-3.0.html). The full text is in [`LICENSE`](LICENSE). Each SVG carries a short copyright and GPL notice at the top.
 
-You can copy the files, change them, and build the diffuser for your own use. If you share the files or a changed version of them, keep this same license on them, credit Aleksandr Motsjonov, link back to this repository, and note what you changed.
+You can copy the files, change them, and build the diffuser, including for sale. If you share the files or a changed version of them, keep them under GPL v3 and include the corresponding design files.
 
-Selling these files, or selling diffusers and parts made from them, sits outside this license. Photos you take with a diffuser you built are yours. The license covers the design files and adaptations of those files.
+Photos you take with a diffuser you built are yours. The license covers the design files and adaptations of those files.
